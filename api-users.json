@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Wande Coal",
+    "Genre": "Afrobeat, Pop"
+  },
+  {
+    "id": 2,
+    "name": "Mr Eazi",
+    "Genre": "Afrobeat"
+  },
+  {
+    "id": 3,
+    "name": "Joeboy",
+    "Genre": "Pop Afrobeat"
+  },
+  {
+    "id": 4,
+    "name": "Fireboy",
+    "Genre": "Afrobeat"
+  },
+  {
+    "id": 5,
+    "name": "Rema",
+    "Genre": "Pop"
+  },
+  {
+    "id": 6,
+    "name": "Davido",
+    "Genre": "Afrobeat Pop"
+  },
+  {
+    "id": 7,
+    "name": "Wizkid",
+    "Genre": "Afrobeat"
+  },
+  {
+    "id": 8,
+    "name": "Oxlade",
+    "Genre": "Afrobeat"
+  },
+  {
+    "id": 9,
+    "name": "Reekado Banks",
+    "Genre": "Afrobeat"
+  }
+]
